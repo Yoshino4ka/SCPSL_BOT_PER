@@ -3,7 +3,7 @@ Bot for issuing the admin panel in the game scpsl, the prefix of the command: ! 
 
 
 
-Рус<color=blue>сск<color=red>ая </color> Версия
+Русская Версия
 
 Бот для выдачи админ-панели в игре scpsl, префикс команды: ! команда для выдачи панели ---- give [ServerPort] [steamID64] [Пример роли] - - - !give 7777 42387653480973489@steam owner команду для удаления панели --- removerole [ServerPort] [steamID64] Пример - - -!removerole 7777 432675354675347965348@steam 
  для просмотра ролей ---- Пример ролей --- !roles
